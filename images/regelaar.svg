@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323.64 24.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-2" cx="161.82" cy="11.89" rx="158.82" ry=".61"/>
+  <circle class="cls-1" cx="57.24" cy="12.5" r="9.5"/>
+</svg>
